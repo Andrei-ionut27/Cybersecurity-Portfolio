@@ -5,7 +5,7 @@ Cybersecurity Portfolio
 
 Welcome to my cybersecurity portfolio.
 
-I am currently completing the Google Cybersecurity Professional Certificate and building hands-on skills in cybersecurity, networking, Linux, Python, and security operations.
+I am currently completeing the Google Cybersecurity Professional Certificate and building hands-on skills in cybersecurity, networking, Linux, Python, and security operations.
 
 About Me
 
