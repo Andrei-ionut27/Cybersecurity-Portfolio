@@ -24,3 +24,13 @@ I have a background in physical security and incident response, with experience 
 ## Career Goal
 
 My goal is to combine my experience in security operations with technical cybersecurity skills to help organizations detect, analyze, and respond to security incidents.
+
+## 📂 Portfolio Projects
+
+### Security Audits
+- **Botium Toys Security Audit** – Risk assessment, controls assessment, compliance checklist (NIST CSF, PCI DSS, GDPR, SOC).
+
+### Incident Reports
+- **DNS Incident Report – Network Traffic Analysis** – Analyzed DNS, UDP, and ICMP traffic using tcpdump to identify a DNS service issue caused by UDP port 53 being unreachable.
+
+More projects will be added as I progress through the Google Cybersecurity Professional Certificate and hands-on labs.
