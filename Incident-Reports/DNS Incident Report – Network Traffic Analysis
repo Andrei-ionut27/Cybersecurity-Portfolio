@@ -7,6 +7,7 @@ This incident report was completed as part of the Google Cybersecurity Professio
 The objective of this activity was to analyze network traffic using tcpdump, identify the affected protocols, determine the root cause of the issue, and document the incident following cybersecurity reporting best practices.
 
 **Skills demonstrated**
+
 - DNS
 - ICMP
 - UDP
