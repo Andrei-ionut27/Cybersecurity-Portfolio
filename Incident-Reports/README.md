@@ -6,3 +6,4 @@ This folder contains incident response reports completed as part of the Google C
 
 - DNS Incident Report – Network Traffic Analysis
 - TCP SYN Flood Incident Report
+- Wireshark TCP/HTTP Log (used during analysis)
