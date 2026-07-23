@@ -27,9 +27,4 @@ My goal is to combine my experience in security operations with technical cybers
 
 ## 📂 Portfolio Projects
 
-### Security Audits
-- [Botium Toys Security Audit](./Security-Audits/Botium-Toys-Security-Audit.md)
 
-### Incident Reports
-- [DNS Incident Report – Network Traffic Analysis](./Incident-Reports/DNS%20Incident%20Report%20%E2%80%93%20Network%20Traffic%20Analysis)
-- [Original PDF Report](./Incident-Reports/Cybersecurity%20incident%20report%20network%20traffic%20analysis.pdf)
